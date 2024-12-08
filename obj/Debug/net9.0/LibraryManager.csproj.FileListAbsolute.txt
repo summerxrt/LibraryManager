@@ -1,0 +1,14 @@
+E:\Code\NetCore\LibraryManager\bin\Debug\net9.0\LibraryManager.exe
+E:\Code\NetCore\LibraryManager\bin\Debug\net9.0\LibraryManager.deps.json
+E:\Code\NetCore\LibraryManager\bin\Debug\net9.0\LibraryManager.runtimeconfig.json
+E:\Code\NetCore\LibraryManager\bin\Debug\net9.0\LibraryManager.dll
+E:\Code\NetCore\LibraryManager\bin\Debug\net9.0\LibraryManager.pdb
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.AssemblyInfoInputs.cache
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.AssemblyInfo.cs
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.csproj.CoreCompileInputs.cache
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.dll
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\refint\LibraryManager.dll
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.pdb
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\LibraryManager.genruntimeconfig.cache
+E:\Code\NetCore\LibraryManager\obj\Debug\net9.0\ref\LibraryManager.dll
